@@ -1,14 +1,14 @@
 # Hi, I'm Tarunikka 👋
 Final-year Computer Science student | Passionate about AI, Machine Learning, and Data-Driven Solutions | Exploring how intelligent systems can solve real-world problems
 
-## 🚀 What I’m Exploring
+##  What I’m Exploring
 - Building and evaluating deep learning models for computer vision and data analysis  
 - Detecting and understanding synthetic media with deepfake detection frameworks  
 - Applying ML algorithms to extract insights from complex datasets  
 - Experimenting with generative models and adversarial learning  
 - Leveraging AI to create predictive and intelligent systems  
 
-## 💻 Skills
+##  Skills
 
 ### Programming & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
